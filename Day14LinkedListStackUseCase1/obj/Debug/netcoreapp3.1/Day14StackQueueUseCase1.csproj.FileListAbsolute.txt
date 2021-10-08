@@ -1,0 +1,14 @@
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase1.exe
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase1.deps.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase1.runtimeconfig.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase1.runtimeconfig.dev.json
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase1.dll
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase1.pdb
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.csproj.AssemblyReference.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.AssemblyInfoInputs.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.AssemblyInfo.cs
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.csproj.CoreCompileInputs.cache
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.dll
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.pdb
+C:\Users\3011313\OneDrive - Jabil\Desktop\Day14\Day14StackQueueUseCase1\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase1.genruntimeconfig.cache
