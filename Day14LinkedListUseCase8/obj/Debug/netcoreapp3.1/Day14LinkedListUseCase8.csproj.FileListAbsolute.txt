@@ -1,0 +1,14 @@
+C:\Day14\Day14LinkedListUseCase8\bin\Debug\netcoreapp3.1\Day14LinkedListUseCase8.exe
+C:\Day14\Day14LinkedListUseCase8\bin\Debug\netcoreapp3.1\Day14LinkedListUseCase8.deps.json
+C:\Day14\Day14LinkedListUseCase8\bin\Debug\netcoreapp3.1\Day14LinkedListUseCase8.runtimeconfig.json
+C:\Day14\Day14LinkedListUseCase8\bin\Debug\netcoreapp3.1\Day14LinkedListUseCase8.runtimeconfig.dev.json
+C:\Day14\Day14LinkedListUseCase8\bin\Debug\netcoreapp3.1\Day14LinkedListUseCase8.dll
+C:\Day14\Day14LinkedListUseCase8\bin\Debug\netcoreapp3.1\Day14LinkedListUseCase8.pdb
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.csproj.AssemblyReference.cache
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.AssemblyInfoInputs.cache
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.AssemblyInfo.cs
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.csproj.CoreCompileInputs.cache
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.dll
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.pdb
+C:\Day14\Day14LinkedListUseCase8\obj\Debug\netcoreapp3.1\Day14LinkedListUseCase8.genruntimeconfig.cache
