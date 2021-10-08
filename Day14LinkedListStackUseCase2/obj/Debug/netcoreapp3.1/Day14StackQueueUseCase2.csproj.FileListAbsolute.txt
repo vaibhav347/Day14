@@ -1,0 +1,14 @@
+C:\Day14\Day14StackQueueUseCase2\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase2.exe
+C:\Day14\Day14StackQueueUseCase2\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase2.deps.json
+C:\Day14\Day14StackQueueUseCase2\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase2.runtimeconfig.json
+C:\Day14\Day14StackQueueUseCase2\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase2.runtimeconfig.dev.json
+C:\Day14\Day14StackQueueUseCase2\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase2.dll
+C:\Day14\Day14StackQueueUseCase2\bin\Debug\netcoreapp3.1\Day14StackQueueUseCase2.pdb
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.AssemblyInfoInputs.cache
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.AssemblyInfo.cs
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.csproj.CoreCompileInputs.cache
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.dll
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.pdb
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.genruntimeconfig.cache
+C:\Day14\Day14StackQueueUseCase2\obj\Debug\netcoreapp3.1\Day14StackQueueUseCase2.csproj.AssemblyReference.cache
